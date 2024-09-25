@@ -1,4 +1,4 @@
-# osu! wiki
+# ous! wiki
 
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
